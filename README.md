@@ -1,13 +1,15 @@
 negative-keywords-json
 ======================
 
-List of negative keywords in JSON format.
+List of 4783 negative keywords in JSON format.
 
-
+If you use this list, please cite one of the following two papers:
+ 
    Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." 
        Proceedings of the ACM SIGKDD International Conference on Knowledge 
        Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, 
-       Washington, USA, 
+       Washington, USA,
+       
    Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing 
        and Comparing Opinions on the Web." Proceedings of the 14th 
        International World Wide Web conference (WWW-2005), May 10-14, 
