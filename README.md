@@ -14,6 +14,7 @@ List of negative keywords in JSON format.
       2005, Chiba, Japan.
 
  Notes: 
+ 
     1. The appearance of an opinion word in a sentence does not necessarily  
        mean that the sentence expresses a positive or negative opinion. 
        See the paper below:
